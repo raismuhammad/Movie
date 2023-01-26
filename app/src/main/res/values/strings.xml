@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">UpComing</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="search">Search</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="favorite">Favorite</string>
+    <string name="rating">Rating</string>
+    <string name="genre">Genre</string>
+    <string name="duration">Duration</string>
+    <string name="release_date">Release Date</string>
+    <string name="popularity">Popularity</string>
+    <string name="overview">Overview</string>
+    <string name="castcrew">Cast &amp; Crew</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
